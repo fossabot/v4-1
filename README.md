@@ -20,6 +20,7 @@
 </p>
 
 ![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FADMARIl%2Fv4.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FADMARIl%2Fv4?ref=badge_shield)
 
 ## 🚨 Forking this repo (please read!)
 
@@ -85,3 +86,7 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
 | Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
 | White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
 | Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FADMARIl%2Fv4.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FADMARIl%2Fv4?ref=badge_large)
